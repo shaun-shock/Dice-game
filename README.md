@@ -1,3 +1,5 @@
 # Dice-game
 
-Place your bets and take your chances, the dice game is gonna make you lose your balances! 
+## Your first step towards becoming a successful gambler!
+### Always remember, you're always one step away from winning a Gazillion amount!
+# Enjoy
